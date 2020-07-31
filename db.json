@@ -1,11 +1,11 @@
-{ 
-  "users": [
+{
+  "posts": [
     {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "avatar": "https://via.placeholder.com/150/771796"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
