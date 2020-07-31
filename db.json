@@ -1,10 +1,12 @@
 {
   "users": [
-     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org",
-    "avatar": "https://via.placeholder.com/150/771796"
+    {
+     "id": 1, 
+      "name": "Leanne Graham", 
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "website": "hildegard.org",
+      "avatar": "https://via.placeholder.com/150/771796"
+    }  
   ]
 }
